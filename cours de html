@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="stany">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Cours d'ISN</title>
+ </head>
+ <body>
+  <div style="background:blue"><center><font size="30"><font face="Edwardian Script ITC"><font color="white"><b><u>Voici mon cours d'ISN </font></font></font></b></U>
+  <BR><font size="20"><font face="Edwardian Script ITC"><font color="white"><u> ce cour porte sur la programmation en html</font></font></font></U></center></div>
+  <br><font size="5"><I>durant les cours nous avons appris a utilisé le HTML pour commencer avec la création d'un corps HTML</I>
+  <Br>Grace au corps on peux faire pleins de chose et en plus cela marche meme pour un débutant
+  <br> on a appris aussi a changer la police d'écriture comme cela 
+  <br><font face="Magneto"> je viens de changer ma police d'écriture grâce au code</font> 
+  <br><font face="Berlin Sans FB"> <u> font face="le nom de l'écriture" </u></font>
+  <br> on peux aussi changer la couleur de mots ou de lettre comme ca et la taille aussi</font>
+  <br> <u> <font face="Yu Gothic"> font color="le nom de la couleur" et font size ="le chiffre de la taille d'écriture"</U>
+  <br><U><><font size="6"><font color="purple">V</font><font color="pink">o</font><font color="lightorange">i</font><font color="orange">c</font><font color="redorange">i</font> <font color="red">l</font><font color="darkred">e</font> <font color="gold">c</font><font color="yellow">o</font><font color="lightgreen">u</font><font color="lightcyan">r</font><font color="darkcyan">s</font> <font color="green">D</font> <font color="light green">'</font><font color="cyan">I</font><font color="blue">S</font><font color="darkblue">N</font></font></U>
+  <br><font size="5">on as appris aussi a inserer une image comme</font>
+  <br><img src="http://i.huffpost.com/gen/799955/images/o-THE-MATRIX-AND-HINDUISM-facebook.jpg"height="150" width="250">
+  <br><u> grâce au code<b><font face="algerian"> img src="l'url de l'image" height="la hauteur de l'image" width="la largeur de l'image"</u></b></font>
+  <br>il y a aussi un code pour changer l'arrière fond d'une ligne de texte et juste un texte
+  <br> avec le code <font face="forte"><font size="5"> div style="background:la couleur" on referme la borne avec /div 
+  <Br>il y a aussi span style="background:le nom de la couleur"</font></font>
+  <br><div style="background:black"><center><font face="castellar"><font color="white"><font size="7">SKYRiM </font></font></font></center></div>
+  <br><font size="5">enfin on a appris a changer de page html par des lien hypertexte comme
+  <br><font face="Impact"> a href ="l'url , l'image, ou le site internet" <br>le nom du projet <br> on referme la borne par /a</font>
+  <br><font size="6"><a href="http://www.aliasdmc.fr/courshtml/cours_html22.html">
+  <font color="blue"> le cours de html</font>
+  </a>
+  <br><font size="6"> <a href="file:///D:/stan/cours/terminal/programmation/chipse.html">
+  <font color="yellow">les chips au poulet</font>
+  </a></font>
+  <br><font size="6"><a href="file:///D:/stan/cours/terminal/programmation/chipss.html">
+   <font color="orange">les carrotes</font>
+  </a></font>
+  <br><font size="6"><a href="file:///D:/stan/cours/terminal/programmation/les%20licornes.html">
+  <font color="pink">les licornes</font>
+  </a></font>
+ </body>
+</html>
