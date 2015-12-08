@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+n = input ("entrer votre nom")# je demande le nom de la personne
+print ("bonjour",n) # je lui dis bonjours
+a = input ("entrer votre age") # je demande son age
+a= int (a) # je précise que a sera une valeur numérique
+if (a > 18) :
+	print ("vous pouvez conduire une voiture")
+elif (a < 18) :
+	print ("vous ne pouvez pas conduire une voiture")
+if (a<0):
+	print("car vous n'etes pas née au revoir")
